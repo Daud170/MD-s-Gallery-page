@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(49, 48, 126);
+    
+}
+
+
+.thumbnails-container{
+    display: flex;
+    height: 200px;
+    width: 80%;
+
+    overflow: scroll;
+
+    border: 2px solid black;
+    padding: 1rem;
+}
+
